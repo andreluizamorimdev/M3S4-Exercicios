@@ -14,10 +14,9 @@
 
 1. Clone o repositório ou faça o download do código fonte.
 2. Abra o terminal e navegue até o diretório raiz do projeto.
-3. Digite o comando `cd backend` para entrar na pasta da api.
-4. Digite o comando `npm install` para baixar as dependências necessárias.
-5. Digite o comando `npx sequelize-cli db:migrate` para executar as migrations do banco.
-6. Digite o comando `npm start` para iniciar o servidor ou `npm start:dev` para iniciar o servidor em modo desenvolvimento.
+3. Digite o comando `npm install` para baixar as dependências necessárias.
+4. Digite o comando `npx sequelize-cli db:migrate` para executar as migrations do banco.
+5. Digite o comando `npm start` para iniciar o servidor ou `npm start:dev` para iniciar o servidor em modo desenvolvimento.
 
 
 
