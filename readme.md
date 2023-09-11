@@ -1,4 +1,4 @@
-# Projeto Trindade Places API
+# M3S4 Exercicios
 
 
 [M3S04] Exercicios do 01 ao 07 do terceiro modulo do curso de fullstack - floripa mais tec onde uma api foi desenvolvida em Node.js, Express e Sequelize para revisar os estudos aprendidos no primeiro modulo do curso.
